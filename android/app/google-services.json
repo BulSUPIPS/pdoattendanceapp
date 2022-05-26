@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21923223657",
+    "project_id": "pdoattendanceapp",
+    "storage_bucket": "pdoattendanceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21923223657:android:dbe9302b6186bde8a5aaf8",
+        "android_client_info": {
+          "package_name": "com.example.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21923223657-hj6pnikdep375prbm9miole3f884ot09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGoYAunK9u3terl8JlZCffQUIWTKDYD3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21923223657-hj6pnikdep375prbm9miole3f884ot09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
